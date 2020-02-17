@@ -9,6 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 Linux and python3
 
 ### Installing
+git clone https://github.com/harshger/simscaleparser
+cd simscaleparser
 python setup.py install
 
 This allows you to easily install Python packages required to run the project.
